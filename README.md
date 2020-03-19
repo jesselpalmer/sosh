@@ -1,3 +1,3 @@
 # sosh
 
-A Shell
+A Unix shell
