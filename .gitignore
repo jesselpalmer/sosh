@@ -53,3 +53,6 @@ dkms.conf
 
 # VS Code files
 .vscode
+
+# MAC OS
+.DS_Store
